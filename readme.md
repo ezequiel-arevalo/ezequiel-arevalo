@@ -3,10 +3,8 @@
 <!-- Lista de tecnologías frontend -->
 
 <div align="center">
-  <a href="https://reactjs.org/" target="_blank">
     <img style="margin: 10px; width: 350px;" src="https://github-readme-stats.vercel.app/api?username=ezequiel-arevalo&show_icons=true&locale=es&theme=dracula&hide_border=true&layout=compact" alt="ezequiel-arevalo"/>
     <img style="margin: 10px; width: 370px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ezequiel-arevalo&theme=dracula&locale=es&hide_border=true&layout=compact" alt="ezequiel-arevalo"/>
-  </a>  
 </div>
 
 
