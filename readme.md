@@ -22,10 +22,10 @@
 <div align="left">
     <img style="margin: 10px" src="src/icons/html.svg" alt="HTML5" height="50" />
     <img style="margin: 10px" src="src/icons/css.svg" alt="CSS3" height="50" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+    <img style="margin: 10px" src="src/icons/bootstrap.svg" alt="Bootstrap" height="50" />
     <img style="margin: 10px" src="src/icons/javascript.svg" alt="JavaScript" height="50" />
     <img style="margin: 10px" src="src/icons/react.svg" alt="React" height="50" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+    <img style="margin: 10px" src="src/icons/tailwind.svg" alt="Tailwind CSS" height="50" />
     <img style="margin: 10px" src="src/icons/photoshop.svg" alt="Photoshop" height="50" />
     <img style="margin: 10px" src="src/icons/illustrator.svg" alt="Illustrator" height="50" />
 </div>
@@ -34,7 +34,7 @@
 <!-- Lista de tecnologías backend -->
 <div align="left">
     <img style="margin: 10px" src="src/icons/php.svg" alt="PHP" height="50" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+    <img style="margin: 10px" src="src/icons/mysql.svg" alt="MySQL" height="50" />
     <img style="margin: 10px" src="src/icons/nodejs.svg" alt="Node.js" height="50" />
 </div>
 
@@ -42,10 +42,10 @@
 <!-- Lista de tecnologías DevOps -->
 <div align="left">
     <img style="margin: 10px" src="src/icons/windows.svg" alt="Windows" height="50" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+    <img style="margin: 10px" src="src/icons/linux.svg" alt="Linux" height="50" />
+    <img style="margin: 10px" src="src/icons/xampp.svg" alt="XAMPP" height="50" />
+    <img style="margin: 10px" src="src/icons/git.svg" alt="Git" height="50" />
+    <img style="margin: 10px" src="src/icons/bash.svg" alt="Bash" height="50" />
     <img style="margin: 10px" src="src/icons/trello.svg" alt="Trello" height="50" />
     <img style="margin: 10px" src="src/icons/slack.svg" alt="Slack" height="50" />
 </div>
