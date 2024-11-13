@@ -14,3 +14,17 @@
 <div align="center">
     <img style="margin: 10px; width: 370px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ezequiel-arevalo&theme=dracula&locale=es&hide_border=true&layout=compact" alt="ezequiel-arevalo"/>
 </div>
+
+<!-- Mis redes -->
+---
+
+## 🌐 Conecta conmigo
+
+- **Frontend Mentor**: [Ezequiel Arevalo](https://www.frontendmentor.io/profile/ezequiel-arevalo)
+- **LinkedIn**: [Ezequiel Arevalo](https://www.linkedin.com/in/ezequiel-arevalo/)
+- **LeetCode**: [Ezequiel Arevalo](https://leetcode.com/u/ezequiel-arevalo/)  
+- **Devto**: [Ezequiel Arevalo](https://dev.to/ezequiel-arevalo)  
+- **Threads**: [@ezequielarevalo](https://www.threads.net/@ezequie_arevalo/)
+- **Sitio Web**: undefined
+
+---
