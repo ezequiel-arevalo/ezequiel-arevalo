@@ -10,12 +10,11 @@
     </p>
 </div>
 
-<!-- Mis estadísticas -->
+<!-- Mis estadísticas 
 <div align="center">
     <img style="margin: 10px; width: 370px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ezequiel-arevalo&theme=dracula&locale=es&hide_border=true&layout=compact" alt="ezequiel-arevalo"/>
 </div>
 
-<!-- Mis redes -->
 ---
 
 ## 🌐 Conecta conmigo
@@ -28,3 +27,4 @@
 - **Sitio Web**: undefined
 
 ---
+-->
