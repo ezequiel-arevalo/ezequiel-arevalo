@@ -6,48 +6,6 @@ Me gusta el **trabajo en equipo**, estar bajo **presión** y aprender de mis **e
 
 Mi objetivo es ser **responsable y consistente** en cada proyecto, optimizando **rendimiento**, mejorando **diseños web** y garantizando que los **sitios web** sean **atractivos**, **funcionales** y **accesibles** para todos los usuarios.
 
-## 🛠 Tecnologías y Herramientas
-
-### Frontend
-<div align="left">
-  <img src="icons/frontend/html.svg" height="40" alt="HTML" />
-  <img width="12" />
-  <img src="icons/frontend/css.svg" height="40" alt="CSS" />
-  <img width="12" />
-  <img src="icons/frontend/javascript.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="icons/frontend/tailwindcss.svg" height="40" alt="TailwindCSS" />
-  <img width="12" />
-  <img src="icons/frontend/bootstrap.svg" height="40" alt="Bootstrap" />
-  <img width="12" />
-  <img src="icons/frontend/react.svg" height="40" alt="React" />
-</div>
-
-### Backend
-<div align="left">
-  <img src="icons/backend/php.svg" height="40" alt="PHP" />
-  <img width="12" />
-  <img src="icons/backend/nodejs.svg" height="40" alt="NodeJS" />
-  <img width="12" />
-</div>
-
-### DevOps y Administración
-<div align="left">
-  <img src="icons/devops/xampp.svg" height="40" alt="XAMPP" />
-  <img width="12" />
-  <img src="icons/devops/npm.svg" height="40" alt="npm" />
-  <img width="12" />
-  <img src="icons/devops/bash.svg" height="40" alt="Bash" />
-  <img width="12" />
-  <img src="icons/devops/git.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="icons/devops/github.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="icons/devops/filezilla.svg" height="40" alt="FileZilla" />
-  <img width="12" />
-  <img src="icons/devops/virtualbox.svg" height="40" alt="VirtualBox" />
-</div>
-
 ## 📈 Mis Estadísticas en GitHub
 
 <div align="center">
