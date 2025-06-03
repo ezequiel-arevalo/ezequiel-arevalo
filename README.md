@@ -22,6 +22,4 @@ Mi objetivo es ser **responsable y consistente** en cada proyecto, optimizando *
 ¿Tienes un proyecto en mente o quieres charlar sobre desarrollo web? ¡Hablemos!  
 - 🌐 **LinkedIn:** [Ezequiel Arevalo](https://www.linkedin.com/in/ezequiel-arevalo/)  
 - 💼 **Portfolio:** [Explora mi trabajo](https://www.ezequiel-arevalo.com)  
-- 📧 **Email:** ezequiel.arevalo@outlook.com  
-
-Estoy encantado de colaborar en proyectos que inspiren y conecten. ¡No dudes en escribirme! 
+- 📧 **Email:** ezequiel-arevalo@outlook.com  
