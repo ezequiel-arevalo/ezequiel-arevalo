@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="985px" height="450px" font-family="ConsolasFallback,Consolas,monospace" font-size="16px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  /* Consolas es mas angosta que las mono de Linux y Mac (0.55 contra 0.60).
+     El 109% la iguala, asi que la grilla de 60 columnas mide lo mismo en
+     los tres sistemas. */
+  size-adjust: 109%;
+}
+/* One Light */
+.art {fill: #4078f2;}
+.name {fill: #986801;}
+.rule {fill: #a0a1a7;}
+.obj {fill: #c18401;}
+.key {fill: #e45649;}
+.dot {fill: #383a42;}
+.value {fill: #50a14f;}
+.cc {fill: #b8b9bd;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="450px" fill="#fafafa" rx="15"/>
+<text x="15" y="30" class="art">
+<tspan x="15" y="30">                   -`</tspan>
+<tspan x="15" y="50">                  .o+`</tspan>
+<tspan x="15" y="70">                 `ooo/</tspan>
+<tspan x="15" y="90">                `+oooo:</tspan>
+<tspan x="15" y="110">               `+oooooo:</tspan>
+<tspan x="15" y="130">               -+oooooo+:</tspan>
+<tspan x="15" y="150">             `/:-:++oooo+:</tspan>
+<tspan x="15" y="170">            `/++++/+++++++:</tspan>
+<tspan x="15" y="190">           `/++++++++++++++:</tspan>
+<tspan x="15" y="210">          `/+++ooooooooooooo/`</tspan>
+<tspan x="15" y="230">         ./ooosssso++osssssso+`</tspan>
+<tspan x="15" y="250">        .oossssso-````/ossssss+`</tspan>
+<tspan x="15" y="270">       -osssssso.      :ssssssso.</tspan>
+<tspan x="15" y="290">      :osssssss/        osssss++so</tspan>
+<tspan x="15" y="310">     /ossssssss/        +ssssooo/-</tspan>
+<tspan x="15" y="330">   `/ossssso+/:-        -:/+osssso+-</tspan>
+<tspan x="15" y="350">  `+sso+:-`                 `.-/+oso:</tspan>
+<tspan x="15" y="370"> `++:.                           `-/+/</tspan>
+<tspan x="15" y="390"> .`                                 `/</tspan>
+</text>
+<text x="390" y="30" fill="#383a42">
+<tspan x="390" y="30" class="name">ezequiel@arevalo</tspan><tspan class="rule"> -———————————————————————————————————————-—-</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="dot">:</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">Arch Linux x86_64</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="dot">:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">24 años, 5 meses, 3 días</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="dot">:</tspan><tspan class="cc"> ............................................ </tspan><tspan class="value">Aw Soft</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="dot">:</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">Desarrollador Web Frontend</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Location</tspan><tspan class="dot">:</tspan><tspan class="cc"> ........................ </tspan><tspan class="value">Buenos Aires, Argentina</tspan>
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="dot">:</tspan><tspan class="cc"> ............................. </tspan><tspan class="value">JetBrains, VS Code, Zed</tspan>
+<tspan x="390" y="170" class="cc">. </tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="obj">Stack</tspan><tspan class="dot">.</tspan><tspan class="key">Frontend</tspan><tspan class="dot">:</tspan><tspan class="cc"> . </tspan><tspan class="value">React, TypeScript, JavaScript, HTML, CSS</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="obj">Stack</tspan><tspan class="dot">.</tspan><tspan class="key">Backend</tspan><tspan class="dot">:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">Java, PHP, Node</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="obj">Stack</tspan><tspan class="dot">.</tspan><tspan class="key">DevOps</tspan><tspan class="dot">:</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">Docker, Linux, Proxmox</tspan>
+<tspan x="390" y="250" class="cc">. </tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="dot">:</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">Español, English</tspan>
+<tspan x="390" y="290" class="cc">. </tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="obj">Hobbies</tspan><tspan class="dot">.</tspan><tspan class="key">Software</tspan><tspan class="dot">:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">Minecraft plugins, Linux</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="obj">Hobbies</tspan><tspan class="dot">.</tspan><tspan class="key">Hardware</tspan><tspan class="dot">:</tspan><tspan class="cc"> ........................... </tspan><tspan class="value">Homelab, NAS</tspan>
+<tspan x="390" y="370" class="name">- Contacto</tspan><tspan class="rule"> -—————————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Web</tspan><tspan class="dot">:</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">ezequiel-arevalo.com</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="dot">:</tspan><tspan class="cc"> ............................ </tspan><tspan class="value">in/ezequiel-arevalo</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="dot">:</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">@ezequiel-arevalo</tspan>
+</text>
+</svg>
