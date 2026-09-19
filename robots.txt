@@ -1,0 +1,6 @@
+# https://ezequiel-arevalo.com/robots.txt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ezequiel-arevalo.com/sitemap.xml

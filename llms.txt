@@ -1,0 +1,32 @@
+# Ezequiel Arévalo
+
+> Frontend web developer en Argentina. Desarrollo sitios y aplicaciones web con
+> React, TypeScript y Next.js, con foco en rendimiento, accesibilidad y SEO técnico.
+
+El sitio está en mantenimiento mientras se rehace el portfolio. Por ahora la única
+página publicada es la portada, con una nota de mantenimiento.
+
+## Perfil
+
+- Nombre: Ezequiel Arévalo
+- Rol: Frontend web developer
+- Ubicación: Argentina
+- Idiomas: español (nativo), inglés
+- Modalidad: remoto
+
+## Tecnologías
+
+- HTML semántico, CSS moderno, Tailwind
+- JavaScript y TypeScript
+- React, Next.js, Astro
+- Accesibilidad WCAG 2.2 y Core Web Vitals
+- SEO técnico y datos estructurados
+
+## Páginas
+
+- [Portada](https://ezequiel-arevalo.com/): aviso de mantenimiento y presentación breve.
+
+## Notas
+
+- El portfolio con proyectos y experiencia vuelve a publicarse próximamente.
+- Este sitio no publica datos de contacto por el momento.
